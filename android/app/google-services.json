@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "642025613351",
+    "firebase_url": "https://final-jury-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "final-jury",
+    "storage_bucket": "final-jury.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642025613351:android:1498c6280b10712a3ac602",
+        "android_client_info": {
+          "package_name": "com.dbestech.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Qg1t7qliDm3s1OBzLFYurtRlH6I2eVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
